@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+}
+
+#search {
+    border: rgb(0, 0, 0);
+    border-radius: 0px;
+    border-style: double;
+}
+
+button {
+    border: rgb(0, 0, 0);
+    border-radius: 0px;
+    border-style: double;
+    background-color: white;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: white;
+}
+
+li {
+    list-style: none;
+}
